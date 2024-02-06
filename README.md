@@ -1,12 +1,12 @@
 # Tiktok Content Creation Bot 1.0 
-## This is a simple python script (sorry for the messy code, It was just made for fun and testing :)) that takes 4 for inputs :
+This is a simple python script (sorry for the messy code, It was just made for fun and testing :)) that takes 4 for inputs :
 -the hook first <br/>
 -the background video for the hook <br/>
 -the content <br/>
 -the background video for the hook <br/>
 -the background video for the content <br/>
 -the background music
-## And then returns the video in output.mp4
+And then returns the video in output.mp4
 
 ## Required Software :
 -Python 3.9.13 <br/>
