@@ -19,6 +19,6 @@ And then returns the video in output.mp4
 -Requests <br/>
 -Nakedpip
 
-## IMPORTANT NOTEA:
+## IMPORTANT NOTE:
 -All the input videos should have a ratio of 9:16 (720*1080p) and a framerate of 24 fps <br/>
 -You need to Downgrade Pillow to 9.5.0 for the software to run smoothly
